@@ -1,5 +1,5 @@
 # TheZenOfPython_ja
-これはThe Zen of Python の和訳です。 
+[これ](https://github.com/kentokura/TheZenOfPython_ja/blob/master/ja.ipynb)はThe Zen of Python の和訳です。 
 
 ## The Zen of Python とは 
 Pythonの禅(お作法や美学)のことです。
@@ -14,7 +14,7 @@ Pythonインタプリタ上で`import this`と入力すると表示できます�
 - [Python プログラミングの基本ルール (The Zen of Python)](https://python.keicode.com/lang/zen-of-python.php)
 
 # TheZenOfPython_ja
-This is a Japanese translation of "The Zen of Python"
+[This](https://github.com/kentokura/TheZenOfPython_ja/blob/master/ja.ipynb) is a Japanese translation of "The Zen of Python"
 
 ## What's "The Zen of Python" ?
 This is Python Zen -- likes propriety and aesthetics -- .
